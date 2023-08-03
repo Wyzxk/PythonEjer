@@ -1,0 +1,3 @@
+import condicional
+
+condicional.registrar()
